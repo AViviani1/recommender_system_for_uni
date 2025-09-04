@@ -1,4 +1,4 @@
-# Recommender System with Attention (LAB 4)
+# Recommender System with Attention
 
 ## Overview
 This repository contains the code and resources for a university assignment focused on building a recommender system using deep learning techniques, specifically exploring attention mechanisms within the NeuMF (Neural Matrix Factorization) model. 
